@@ -1,9 +1,9 @@
-package Lesson_1.impl;
+package Animals.impl;
 
-import Lesson_1.Animal;
-import Lesson_1.Flyable;
-import Lesson_1.Speakable;
-import Lesson_1.Swimable;
+import Animals.Animal;
+import Animals.Flyable;
+import Animals.Speakable;
+import Animals.Swimable;
 
 public class Duck extends Animal implements Flyable, Swimable, Speakable {
 

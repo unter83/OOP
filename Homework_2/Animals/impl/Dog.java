@@ -1,28 +1,28 @@
-package Lesson_1.impl;
+package Animals.impl;
 
-import Lesson_1.Animal;
-import Lesson_1.Runable;
-import Lesson_1.Speakable;
+import Animals.Animal;
+import Animals.Runable;
+import Animals.Speakable;
 
-public class Cat extends Animal implements Runable, Speakable {
+public class Dog extends Animal implements Runable, Speakable {
 
     private String name = super.getName();
 
-    public Cat() {
-        super(String.format("Cat #%d", ++animalCount), "Unknown", 4);
+    public Dog() {
+        super(String.format("Dog #%d", ++animalCount), "Unknown", 4);
     }
 
-    public Cat(String name) {
+    public Dog(String name) {
         super(name, "Unknown", 4);
     }
 
-    public Cat(String name, String color) {
+    public Dog(String name, String color) {
         super(name, color, 4);
     }
 
     @Override
     public void speak() {
-        System.out.println(" Mewo! ");
+        System.out.println("Wow!");
     }
 
     @Override

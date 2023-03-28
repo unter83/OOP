@@ -1,7 +1,7 @@
-package Lesson_1.impl;
+package Animals.impl;
 
-import Lesson_1.Animal;
-import Lesson_1.Swimable;
+import Animals.Animal;
+import Animals.Swimable;
 
 public class Fish extends Animal implements Swimable {
 

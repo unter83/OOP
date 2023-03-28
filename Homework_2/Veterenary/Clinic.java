@@ -2,12 +2,13 @@ package Veterenary;
 
 import java.util.ArrayList;
 import java.util.List;
-import Lesson_1.Animal;
-import Lesson_1.Flyable;
-import Lesson_1.Illable;
-import Lesson_1.Speakable;
-import Lesson_1.Swimable;
-import Lesson_2.Doctor;
+
+import Animals.Animal;
+import Animals.Flyable;
+import Animals.Illable;
+import Animals.Speakable;
+import Animals.Swimable;
+import Humans.Doctor;
 
 public class Clinic {
 

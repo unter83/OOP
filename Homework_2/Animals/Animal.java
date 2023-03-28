@@ -1,4 +1,4 @@
-package Lesson_1;
+package Animals;
 
 public abstract class Animal implements Illable {
     private String name;

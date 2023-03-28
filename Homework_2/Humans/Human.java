@@ -1,6 +1,6 @@
-package Lesson_2;
+package Humans;
 
-import Lesson_1.Illable;
+import Animals.Illable;
 
 public class Human implements Illable {
 

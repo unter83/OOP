@@ -1,17 +1,17 @@
-package Lesson_2;
 
 import java.util.List;
 
-import Lesson_1.impl.Fish;
-import Lesson_1.Animal;
-import Lesson_1.Flyable;
-import Lesson_1.Illable;
-import Lesson_1.Speakable;
-import Lesson_1.Swimable;
-import Lesson_1.impl.Cat;
-import Lesson_1.impl.Dog;
-import Lesson_1.impl.Duck;
-import Lesson_1.impl.Eagle;
+import Animals.Animal;
+import Animals.Flyable;
+import Animals.Illable;
+import Animals.Speakable;
+import Animals.Swimable;
+import Animals.impl.Cat;
+import Animals.impl.Dog;
+import Animals.impl.Duck;
+import Animals.impl.Eagle;
+import Animals.impl.Fish;
+import Humans.Doctor;
 import Veterenary.Clinic;
 
 public class Main {

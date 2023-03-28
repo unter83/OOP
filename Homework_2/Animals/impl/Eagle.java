@@ -1,8 +1,8 @@
-package Lesson_1.impl;
+package Animals.impl;
 
-import Lesson_1.Animal;
-import Lesson_1.Flyable;
-import Lesson_1.Speakable;
+import Animals.Animal;
+import Animals.Flyable;
+import Animals.Speakable;
 
 public class Eagle extends Animal implements Flyable, Speakable {
 

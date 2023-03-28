@@ -1,4 +1,4 @@
-package Lesson_1;
+package Animals;
 
 public interface Illable {
 

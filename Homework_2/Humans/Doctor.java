@@ -1,4 +1,4 @@
-package Lesson_2;
+package Humans;
 
 public class Doctor extends Human {
     String secondName;
