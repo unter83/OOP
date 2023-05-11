@@ -1,5 +1,6 @@
 package Homework_3.drugs;
 
+import java.util.Comparator;
 import java.util.Iterator;
 import java.util.List;
 
@@ -33,9 +34,21 @@ public class Drug implements Iterable<Component>, Comparable<Drug> {
         return power;
     }
 
+    public String getComponentsName() {
+        String componentName = "";
+        for (Component item : components) {
+            componentName = componentName + item.getName();
+        }
+        return componentName;
+    }
+
     @Override
     public int compareTo(Drug o) {
-        return Integer.compare(getDrugPower(), o.getDrugPower());
+        if (Integer.compare(getDrugPower(), o.getDrugPower()) != 0)
+            return Integer.compare(getDrugPower(), o.getDrugPower());
+        else
+            return Comparator.comparing(Drug::getComponentsName).compare(this, o);
+
     }
 
     @Override

@@ -38,7 +38,24 @@ public class Component {
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
         return String.format("%s: %s мг, %d", name, weight, power);
     }
+
+    public boolean equals(Component component2) {
+        if (this == component2)
+            return true;
+        if (this.getClass() != component2.getClass())
+            return false;
+        return this.name.equals(component2.name) &&
+                this.weight.equals(component2.weight) &&
+                this.power == component2.power && this.hashCode() == component2.hashCode();
+    }
+
+    @Override
+    public int hashCode() {
+        int result;
+        result = name.hashCode() + weight.hashCode() + power;
+        return result;
+    }
+
 }

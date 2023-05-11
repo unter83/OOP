@@ -9,7 +9,6 @@ public class CatDrug extends Drug {
 
     public CatDrug(List<Component> component) {
         super(component);
-        // TODO Auto-generated constructor stub
     }
 
 }
