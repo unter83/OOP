@@ -1,0 +1,8 @@
+1,EMMET,BROWN,346457
+2,Victor,Rodzrvich,+79236437763
+4,Don,Baton,555
+5,Gord,Markov,54311
+6,Liam,Nilsom,0743422
+7,Geralt,Rivia,654322
+8,Michle,Mcfly,1983221
+9,Holms,Sherlock,221

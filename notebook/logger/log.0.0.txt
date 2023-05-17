@@ -1,0 +1,302 @@
+��� 14, 2023 7:09:00 PM logger.logging userEnteredData
+INFO: user entered READ in data Enter your command: 
+��� 14, 2023 7:09:03 PM logger.logging userEnteredData
+INFO: user entered 1 in data Users's ID: 
+��� 14, 2023 7:09:07 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:36:48 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:38:31 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:39:02 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:48:15 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:48:53 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:59:14 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 7:59:50 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 8:00:22 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+��� 14, 2023 8:01:07 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 14, 2023 8:01:38 PM logger.logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 5:30:08 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 6:55:53 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 6:55:55 PM logger.impl.Logging userEnteredData
+INFO: user entered f in data Users's ID: 
+мая 16, 2023 6:56:52 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 6:56:53 PM logger.impl.Logging userEnteredData
+INFO: user entered g in data Users's ID: 
+мая 16, 2023 6:57:53 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 6:57:54 PM logger.impl.Logging userEnteredData
+INFO: user entered f in data Users's ID: 
+мая 16, 2023 7:03:21 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:03:23 PM logger.impl.Logging userEnteredData
+INFO: user entered g in data Users's ID: 
+мая 16, 2023 7:03:23 PM logger.impl.Logging warning
+WARNING: warning Error! User entered string ID numberic form.
+мая 16, 2023 7:05:09 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:05:11 PM logger.impl.Logging userEnteredData
+INFO: user entered 9 in data Users's ID: 
+мая 16, 2023 7:05:11 PM logger.impl.Logging warning
+WARNING: warning User entered string ID numberic form.
+мая 16, 2023 7:06:21 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:06:22 PM logger.impl.Logging userEnteredData
+INFO: user entered 1 in data Users's ID: 
+мая 16, 2023 7:06:22 PM logger.impl.Logging warning
+WARNING: warning User entered string ID numberic form.
+мая 16, 2023 7:16:10 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:16:11 PM logger.impl.Logging userEnteredData
+INFO: user entered g in data Users's ID: 
+мая 16, 2023 7:16:33 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:16:34 PM logger.impl.Logging userEnteredData
+INFO: user entered 1 in data Users's ID: 
+мая 16, 2023 7:38:12 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:38:14 PM logger.impl.Logging userEnteredData
+INFO: user entered f in data Users's ID: 
+мая 16, 2023 7:39:20 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:39:21 PM logger.impl.Logging userEnteredData
+INFO: user entered d in data Users's ID: 
+мая 16, 2023 7:40:09 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:40:10 PM logger.impl.Logging userEnteredData
+INFO: user entered d in data Users's ID: 
+мая 16, 2023 7:40:32 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:40:33 PM logger.impl.Logging userEnteredData
+INFO: user entered d in data Users's ID: 
+мая 16, 2023 7:40:35 PM logger.impl.Logging userEnteredData
+INFO: user entered sfs in data Name: 
+мая 16, 2023 7:40:36 PM logger.impl.Logging userEnteredData
+INFO: user entered vv in data Last name: 
+мая 16, 2023 7:40:37 PM logger.impl.Logging userEnteredData
+INFO: user entered 25 in data Phone number: 
+мая 16, 2023 7:43:03 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:43:05 PM logger.impl.Logging userEnteredData
+INFO: user entered f in data Users's ID: 
+мая 16, 2023 7:44:37 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:44:38 PM logger.impl.Logging userEnteredData
+INFO: user entered s in data Users's ID: 
+мая 16, 2023 7:44:59 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:45:00 PM logger.impl.Logging userEnteredData
+INFO: user entered f in data Users's ID: 
+мая 16, 2023 7:45:00 PM logger.impl.Logging warning
+WARNING: warning User entered string ID numberic form.
+мая 16, 2023 7:45:52 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:45:53 PM logger.impl.Logging userEnteredData
+INFO: user entered f in data Users's ID: 
+мая 16, 2023 7:45:53 PM logger.impl.Logging warning
+WARNING: warning User entered string ID numberic form.
+мая 16, 2023 7:53:56 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 7:53:57 PM logger.impl.Logging userEnteredData
+INFO: user entered 10 in data Users's ID: 
+мая 16, 2023 7:54:20 PM logger.impl.Logging userEnteredData
+INFO: user entered Vlad in data Name: 
+мая 16, 2023 7:54:24 PM logger.impl.Logging userEnteredData
+INFO: user entered Drakula in data Last name: 
+мая 16, 2023 7:54:28 PM logger.impl.Logging userEnteredData
+INFO: user entered 666666 in data Phone number: 
+мая 16, 2023 7:54:35 PM logger.impl.Logging userEnteredData
+INFO: user entered LIST in data Enter your command: 
+мая 16, 2023 7:54:56 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 7:55:36 PM logger.impl.Logging userEnteredData
+INFO: user entered READ in data Enter your command: 
+мая 16, 2023 7:55:37 PM logger.impl.Logging userEnteredData
+INFO: user entered 10 in data Users's ID: 
+мая 16, 2023 7:55:37 PM logger.impl.Logging warning
+WARNING: warning User not found
+мая 16, 2023 8:12:49 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 8:12:53 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:13:06 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 8:13:07 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:13:10 PM logger.impl.Logging userEnteredData
+INFO: user entered None in data Name: 
+мая 16, 2023 8:13:11 PM logger.impl.Logging userEnteredData
+INFO: user entered asa in data Last name: 
+мая 16, 2023 8:13:12 PM logger.impl.Logging userEnteredData
+INFO: user entered 24235 in data Phone number: 
+мая 16, 2023 8:13:23 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:13:25 PM logger.impl.Logging userEnteredData
+INFO: user entered 80 in data Users's ID: 
+мая 16, 2023 8:14:05 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 8:14:44 PM logger.impl.Logging userEnteredData
+INFO: user entered 80 in data Enter your command: 
+мая 16, 2023 8:15:01 PM logger.impl.Logging userEnteredData
+INFO: user entered DELET in data Enter your command: 
+мая 16, 2023 8:15:26 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:15:28 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:15:35 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 8:19:30 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:19:31 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:22:43 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:22:45 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:24:24 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:24:26 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:24:29 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 8:26:57 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:26:59 PM logger.impl.Logging userEnteredData
+INFO: user entered 1000 in data Users's ID: 
+мая 16, 2023 8:27:58 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:28:00 PM logger.impl.Logging userEnteredData
+INFO: user entered 1000 in data Users's ID: 
+мая 16, 2023 8:30:36 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:30:38 PM logger.impl.Logging userEnteredData
+INFO: user entered 1000 in data Users's ID: 
+мая 16, 2023 8:34:28 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:34:29 PM logger.impl.Logging userEnteredData
+INFO: user entered 1000 in data Users's ID: 
+мая 16, 2023 8:35:18 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:35:19 PM logger.impl.Logging userEnteredData
+INFO: user entered 1000 in data Users's ID: 
+мая 16, 2023 8:35:19 PM logger.impl.Logging warning
+WARNING: warning No such ID
+мая 16, 2023 8:35:46 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 8:35:48 PM logger.impl.Logging userEnteredData
+INFO: user entered 1000 in data Users's ID: 
+мая 16, 2023 8:35:50 PM logger.impl.Logging userEnteredData
+INFO: user entered No in data Name: 
+мая 16, 2023 8:35:51 PM logger.impl.Logging userEnteredData
+INFO: user entered afs in data Last name: 
+мая 16, 2023 8:35:52 PM logger.impl.Logging userEnteredData
+INFO: user entered 3434 in data Phone number: 
+мая 16, 2023 8:35:52 PM logger.impl.Logging warning
+WARNING: warning No such ID
+мая 16, 2023 8:36:00 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 8:43:29 PM logger.impl.Logging userEnteredData
+INFO: user entered sd in data Enter your command: 
+мая 16, 2023 8:44:24 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 16, 2023 8:44:25 PM logger.impl.Logging userEnteredData
+INFO: user entered sd in data Users's ID: 
+мая 16, 2023 8:44:25 PM logger.impl.Logging warning
+WARNING: null - Wrong id!
+мая 16, 2023 8:48:50 PM logger.impl.Logging userEnteredData
+INFO: user entered sdg in data Enter your command: 
+мая 16, 2023 8:52:36 PM logger.impl.Logging userEnteredData
+INFO: user entered 235 in data Enter your command: 
+мая 16, 2023 8:53:16 PM logger.impl.Logging userEnteredData
+INFO: user entered sds in data Enter your command: 
+мая 16, 2023 8:53:51 PM logger.impl.Logging userEnteredData
+INFO: user entered af in data Enter your command: 
+мая 16, 2023 8:53:51 PM logger.impl.Logging warning
+WARNING: af - No such command!
+мая 16, 2023 8:54:01 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 8:54:04 PM logger.impl.Logging userEnteredData
+INFO: user entered 100 in data Users's ID: 
+мая 16, 2023 8:54:05 PM logger.impl.Logging userEnteredData
+INFO: user entered sf in data Name: 
+мая 16, 2023 8:54:06 PM logger.impl.Logging userEnteredData
+INFO: user entered sd in data Last name: 
+мая 16, 2023 8:54:07 PM logger.impl.Logging userEnteredData
+INFO: user entered asf in data Phone number: 
+мая 16, 2023 8:54:07 PM logger.impl.Logging warning
+WARNING: 100 - No such ID
+мая 16, 2023 8:54:11 PM logger.impl.Logging userEnteredData
+INFO: user entered 1 in data Enter your command: 
+мая 16, 2023 8:54:11 PM logger.impl.Logging warning
+WARNING: 1 - No such command!
+мая 16, 2023 8:54:18 PM logger.impl.Logging userEnteredData
+INFO: user entered Emmet in data Enter your command: 
+мая 16, 2023 8:54:18 PM logger.impl.Logging warning
+WARNING: Emmet - No such command!
+мая 16, 2023 8:54:25 PM logger.impl.Logging userEnteredData
+INFO: user entered UPDATE in data Enter your command: 
+мая 16, 2023 8:54:26 PM logger.impl.Logging userEnteredData
+INFO: user entered 1 in data Users's ID: 
+мая 16, 2023 8:54:29 PM logger.impl.Logging userEnteredData
+INFO: user entered EMMET in data Name: 
+мая 16, 2023 8:54:33 PM logger.impl.Logging userEnteredData
+INFO: user entered BROWN in data Last name: 
+мая 16, 2023 8:54:35 PM logger.impl.Logging userEnteredData
+INFO: user entered 346457 in data Phone number: 
+мая 16, 2023 8:54:41 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 16, 2023 9:08:11 PM logger.impl.Logging userEnteredData
+INFO: user entered ADD in data Enter your command: 
+мая 16, 2023 9:08:11 PM logger.impl.Logging warning
+WARNING: ADD - No such command!
+мая 16, 2023 9:08:16 PM logger.impl.Logging userEnteredData
+INFO: user entered CREATE in data Enter your command: 
+мая 16, 2023 9:08:26 PM logger.impl.Logging userEnteredData
+INFO: user entered Geralt in data Name: 
+мая 16, 2023 9:08:36 PM logger.impl.Logging userEnteredData
+INFO: user entered Rivia in data Last name: 
+мая 16, 2023 9:08:40 PM logger.impl.Logging userEnteredData
+INFO: user entered 654322 in data Phone number: 
+мая 16, 2023 9:08:54 PM logger.impl.Logging userEnteredData
+INFO: user entered CREATE in data Enter your command: 
+мая 16, 2023 9:08:58 PM logger.impl.Logging userEnteredData
+INFO: user entered Michle in data Name: 
+мая 16, 2023 9:09:02 PM logger.impl.Logging userEnteredData
+INFO: user entered Mcfly in data Last name: 
+мая 16, 2023 9:09:13 PM logger.impl.Logging userEnteredData
+INFO: user entered 1983221 in data Phone number: 
+мая 16, 2023 9:09:54 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
+мая 17, 2023 3:12:46 PM logger.impl.Logging userEnteredData
+INFO: user entered LIST in data Enter your command: 
+мая 17, 2023 3:13:16 PM logger.impl.Logging userEnteredData
+INFO: user entered LIST in data Enter your command: 
+мая 17, 2023 3:13:32 PM logger.impl.Logging userEnteredData
+INFO: user entered CREATE in data Enter your command: 
+мая 17, 2023 3:13:51 PM logger.impl.Logging userEnteredData
+INFO: user entered Holms in data Name: 
+мая 17, 2023 3:13:55 PM logger.impl.Logging userEnteredData
+INFO: user entered Sherlock in data Last name: 
+мая 17, 2023 3:14:15 PM logger.impl.Logging userEnteredData
+INFO: user entered 221 in data Phone number: 
+мая 17, 2023 3:14:21 PM logger.impl.Logging userEnteredData
+INFO: user entered LIST in data Enter your command: 
+мая 17, 2023 3:14:34 PM logger.impl.Logging userEnteredData
+INFO: user entered DELETE in data Enter your command: 
+мая 17, 2023 3:14:35 PM logger.impl.Logging userEnteredData
+INFO: user entered 3 in data Users's ID: 
+мая 17, 2023 3:14:37 PM logger.impl.Logging userEnteredData
+INFO: user entered LIST in data Enter your command: 
+мая 17, 2023 3:14:47 PM logger.impl.Logging userEnteredData
+INFO: user entered EXIT in data Enter your command: 
